@@ -3,4 +3,6 @@
 in theory > i love reading blogs and newsletters. <br>
 in practice > i always forget to open my inbox, and one day there's hundreds of emails waiting for me!
 
-i made a bot to update me when my blog/newsletter dedicated inbox has an update.
+i made a bot to update me when my blog/newsletter dedicated inbox has a new unread email.
+
+tech: UiPath Studio (+ Gmail package)
